@@ -6,7 +6,7 @@ Main additions: external EEPROM (I2C), LSE crystal for RTC accuracy, and backup 
 ## What I changed (conversion summary)
 - Added I2C EEPROM block (address pins, decoupling, write-protect as applicable)
 - Added I2C pull-up resistors sized for 3.3V logic
-- Added 32.768 kHz crystal (LSE) for stable RTC timekeeping
+- Added 32.768 MHz crystal (LSE) for stable RTC timekeeping
 - Added backup power cell circuitry (VBAT/RTC domain support)
 - Updated connectors/test points for logging/debug (UART/I2C as required)
 - Verified ERC/DRC and updated net labels + power domains
