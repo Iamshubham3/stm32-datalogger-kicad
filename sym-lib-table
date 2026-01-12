@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CR2032")(type "KiCad")(uri "${KIPRJMOD}/lib/CR2032/CR2032.kicad_sym")(options "")(descr ""))
+  (lib (name "MS621T-FL11E")(type "KiCad")(uri "${KIPRJMOD}/lib/MS621T-FL11E/MS621T-FL11E.kicad_sym")(options "")(descr ""))
+)
