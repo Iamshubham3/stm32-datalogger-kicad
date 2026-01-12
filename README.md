@@ -16,4 +16,4 @@ Main additions: external EEPROM (I2C), LSE crystal for RTC accuracy, and backup 
 - Stores samples into EEPROM and timestamps using RTC (battery-backed)
 
 ## Tools
-- KiCad v9 (or your version)
+- KiCad v8
